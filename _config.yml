@@ -1,0 +1,14 @@
+layout_spectrum: 0.9978724
+color:
+  saturation: 0.0680851
+  brandStrength: 0.2536884
+  lightness: 1
+  rhythmicContrast: 0.7404255
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.4319149
+name: Thedancerproject
